@@ -1,0 +1,14 @@
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.csproj.AssemblyReference.cache
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.AssemblyInfoInputs.cache
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.AssemblyInfo.cs
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.csproj.CoreCompileInputs.cache
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.exe
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.deps.json
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.runtimeconfig.json
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.runtimeconfig.dev.json
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.dll
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\bin\Debug\netcoreapp3.1\AsyncCaller.pdb
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.dll
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.pdb
+C:\Users\cps\Desktop\AsyncCaller\AsyncCaller\obj\Debug\netcoreapp3.1\AsyncCaller.genruntimeconfig.cache
